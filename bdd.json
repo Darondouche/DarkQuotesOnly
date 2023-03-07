@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "author":"Ralph Waldo Emerson",
+        "theme": "nigth",
+        "text": "When it is dark enough, you can see the stars."
+    },
+    {
+        "id": 2,
+        "author":"Khalil Gibran",
+        "theme": "nigth",
+        "text": "We are all like the bright moon, we still have our darker side."
+    },
+    {
+        "id": 3,
+        "author":"Oscar Wilde",
+        "theme": "nigth",
+        "text": "I knew nothing but shadows and I thought them to be real."
+    },
+    {
+        "id": 4,
+        "author":"Stephen King",
+        "theme": "minds",
+        "text": "Quiet people have the loudest minds."
+    },
+    {
+        "id": 5,
+        "author":"Peggy Haymes",
+        "theme": "minds",
+        "text": "We numb our minds and heart so one need not be broken and the other need not be bothered."
+    }
+]
